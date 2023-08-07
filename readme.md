@@ -1,8 +1,8 @@
 # DOMAIN VERIFICATION TOOL
 
-BUILT TO VERIFY A DOMAIN AND ALSO GET SOME RECORDS OF THE DOMAIN LIKE THE SPR-RECORD .
+Built to look-up and verify domain accross the globe , and also get some informations about the domain like the sprRecords and dmarcRecords
 
-THIS PROJECTS WAS WITH SOME OF THE PACKAGES FROM THE GO STANDARD LIBRARY , LIKE THE [net]("https://pkg.go.dev/net) [bufio]("https://pkg.go.dev/bufio") [strings]("https://pkg.go.dev/strings")
+This package was built with some inbuilt Go packages like the [net](https://pkg.go.dev/net) , [bufio](https://pkg.go.dev/bufio) , [strings](https://pkg.go.dev/strings)
 
 ## Run Code
 `go run main.go`
